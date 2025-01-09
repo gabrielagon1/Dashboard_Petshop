@@ -1,4 +1,4 @@
-# Dashboard_petshop
+# Dashboard Petshop
 Este projeto visa auxiliar um melhor entendimento sobre o desempenho e as necessidades do Petshop Gatito. A solução permite monitorar o crescimento do faturamento nos últimos anos, identificar as marcas com maior participação nas vendas, controlar o estoque e entender o perfil de compra dos clientes.
 
 # Funcionalidades
